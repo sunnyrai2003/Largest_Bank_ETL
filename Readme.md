@@ -31,7 +31,7 @@ SQLite database for further analysis using SQL.
 
 
 
-###Conclusion
+## Conclusion
 
 This project demonstrates how a Data Engineer can build an end-to-end ETL pipeline to collect, transform, and store financial data.
 
