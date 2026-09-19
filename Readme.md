@@ -41,7 +41,7 @@ The project provided practical experience with the complete Extract → Transfor
 
 
 
-###📌 Project Outcome
+## 📌 Project Outcome
 
 Raw Data → Extraction → Transformation → Currency Conversion → CSV + Database → SQL Analysis
 
